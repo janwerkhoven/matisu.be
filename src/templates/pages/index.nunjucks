@@ -1,0 +1,13 @@
+{% extends "layout.nunjucks" %}
+{% block meta %}
+  <title>Matisu</title>
+  <meta name="description" content="Mathijs Huyghebaert">
+{% endblock %}
+{% block id %}landing{% endblock %}
+{% block main %}
+
+  <section id="hero">
+    <img src="/assets/images/under-construction.svg" width="140" height="153">
+  </section>
+
+{% endblock %}
