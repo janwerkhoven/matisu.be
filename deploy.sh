@@ -32,6 +32,9 @@ echo "----------"
 echo "yarn install"
 yarn install
 echo "----------"
+echo "bower install"
+bower install
+echo "----------"
 echo "gulp build"
 gulp build
 echo "----------"
