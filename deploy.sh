@@ -33,5 +33,5 @@ echo "yarn install"
 yarn install
 echo "----------"
 echo "gulp build"
-grunt build
+gulp build
 echo "----------"
